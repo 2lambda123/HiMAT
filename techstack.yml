@@ -2,7 +2,7 @@ repo_name: 2lambda123/HiMAT
 report_id: 7e531ecf84c24fffcffb7c5be518daf9
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:14:15+00:00'
+timestamp: '2024-02-29T19:20:29+00:00'
 requested_by: sdnicholls
 provider: github
 branch: master
@@ -75,7 +75,7 @@ tools:
   last_updated_by: lsetiawan
   last_updated_on: 2017-11-09 23:00:16.000000000 Z
 - name: GDAL
-  description: " translator library for raster and vector geospatial data formats"
+  description: translator library for raster and vector geospatial data formats
   website_url: http://www.gdal.org/
   open_source: false
   hosted_saas: false
